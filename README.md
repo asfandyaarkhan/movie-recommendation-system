@@ -119,7 +119,7 @@ The `recommend()` function:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/movie-recommendation-system.git
+git clone https://github.com/Asfandyaarkhan/movie-recommendation-system.git
 ```
 
 Navigate to the project directory:
@@ -142,7 +142,7 @@ If using the Python script:
 python movie_recommender.py
 ```
 
-If using Google Colab or Jupyter Notebook, open `movie_recommender.ipynb` and execute the cells sequentially.
+If using Google Colab or Jupyter Notebook, open `movie_recommender_project.ipynb` and execute the cells sequentially.
 
 ### 4. Generate Recommendations
 
